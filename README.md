@@ -1,4 +1,4 @@
-# opentack-RDO-two-nodes-
+# openstack-RDO-two-nodes-
 OpenStack is a collection of interoperable components that can be deployed to provide computing, networking and storage resources. Those infrastructure resources can then be accessed by end users through programmable APIs.
 
 
